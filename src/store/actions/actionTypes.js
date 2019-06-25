@@ -1,0 +1,4 @@
+export const ADD_PLACES = 'ADD_PLACES';
+export const DELETE_PLACES = 'DELETE_PLACES';
+export const SELECT_PLACES = 'SELECT_PLACES';
+export const DESELECT_PLACES = 'DESELECT_PLACES';
